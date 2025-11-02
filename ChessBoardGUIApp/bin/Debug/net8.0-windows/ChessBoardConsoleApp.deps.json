@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ChessBoardConsoleApp/1.0.0": {
+        "dependencies": {
+          "ChessBoardModel": "1.0.0"
+        },
+        "runtime": {
+          "ChessBoardConsoleApp.dll": {}
+        }
+      },
+      "ChessBoardModel/1.0.0": {
+        "runtime": {
+          "ChessBoardModel.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChessBoardConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChessBoardModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

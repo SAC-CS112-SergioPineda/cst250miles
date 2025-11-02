@@ -1,0 +1,11 @@
+C:\desktop\ChessBoardModel\bin\Debug\net8.0\ChessBoardModel.deps.json
+C:\desktop\ChessBoardModel\bin\Debug\net8.0\ChessBoardModel.dll
+C:\desktop\ChessBoardModel\bin\Debug\net8.0\ChessBoardModel.pdb
+C:\desktop\ChessBoardModel\obj\Debug\net8.0\ChessBoardModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\desktop\ChessBoardModel\obj\Debug\net8.0\ChessBoardModel.AssemblyInfoInputs.cache
+C:\desktop\ChessBoardModel\obj\Debug\net8.0\ChessBoardModel.AssemblyInfo.cs
+C:\desktop\ChessBoardModel\obj\Debug\net8.0\ChessBoardModel.csproj.CoreCompileInputs.cache
+C:\desktop\ChessBoardModel\obj\Debug\net8.0\ChessBoardModel.dll
+C:\desktop\ChessBoardModel\obj\Debug\net8.0\refint\ChessBoardModel.dll
+C:\desktop\ChessBoardModel\obj\Debug\net8.0\ChessBoardModel.pdb
+C:\desktop\ChessBoardModel\obj\Debug\net8.0\ref\ChessBoardModel.dll
